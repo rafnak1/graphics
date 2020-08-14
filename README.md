@@ -1,2 +1,2 @@
-# graphics
-Small graphics-related projects
+# Graphics
+Small graphics-related projects.
